@@ -1,3 +1,14 @@
+
+- name: Overview
+  href: azureps-cmdlets-docs/index.md
+- name: Install
+  href: azureps-cmdlets-docs/index.md
+- name: Getting Started
+  href: azureps-cmdlets-docs/index.md
+- name: How Do I?
+  href: azureps-cmdlets-docs/index.md
+- name: Reference
+  href: azureps-cmdlets-docs/index.md
 - name: Azure PowerShell
   href: azureps-cmdlets-docs/index.md
   tocHref: azureps-cmdlets-docs/toc.yml
